@@ -1,16 +1,3 @@
-# Frontend Battle
-=====================
-## Phase 1 Replicating the design
-### Step 1: Create a new project in Visual Studio Code
-Open Visual Studio Code and create a new project by clicking on the "Explorer" icon in the left
-sidebar and then clicking on "New Folder". Name the folder "FrontendBattle".
-### Step 2:Crate Next JS Project
-Open the terminal in Visual Studio Code and run the following command to create a new Next.js project:
-```npx create-next-app@latest replicate-ui --app --ts --tailwind```
-```cd replicate-ui```
-This will create a new Next.js project with TypeScript and Tailwind CSS.
-### Step 3: Install required packages
-In the terminal, run the following command to install the required packages:
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
